@@ -1,5 +1,5 @@
-<h3>👋 Hello,  I'm Tetiana Korsun</h3>
-<h4>📚 Student at Okten School 🎓</h4>
+<b>👋 Hello,  I'm Tetiana Korsun</b>
+<p>📚 Student at Okten School 🎓</p>
 
 🌱 Currently learning React ⚛️ and TypeScript 📜
 
