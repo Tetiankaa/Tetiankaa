@@ -1,4 +1,4 @@
-👋 Hello,  I'm Tetiana Korsun
+👋 Hello,  I'm Tetiana Korsun <br>
 📚 Student at Okten School 🎓
 
 🌱 Currently learning React ⚛️ and TypeScript 📜
