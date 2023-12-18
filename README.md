@@ -1,7 +1,7 @@
 <b>👋 Hello,  I'm Tetiana Korsun</b>
 <p>📚 Student at Okten School 🎓</p>
 
-🌱 Currently learning Java programming language.
+🌱 Currently learning Java♨️ programming language 
 
 💻 I have completed a few small projects, but I’m still in the process of learning and improving my skills 🚀    
 
