@@ -1,9 +1,9 @@
 <b>👋 Hello,  I'm Tetiana Korsun</b>
 <p>📚 Student at Okten School 🎓</p>
 
-🌱 Currently learning React ⚛️ and TypeScript 📜
+🌱 Currently learning Java programming language.
 
-💻 I have a basic understanding of  HTML, CSS, JavaScript, MySQL, MongoDB and have completed a few small projects, but I’m still in the process of learning and improving my skills 🚀    
+💻 I have completed a few small projects, but I’m still in the process of learning and improving my skills 🚀    
 
 👥 Open to collaboration and new opportunities. Let's code together!
 
