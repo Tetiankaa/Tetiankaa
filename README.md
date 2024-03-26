@@ -1,9 +1,10 @@
 <b>👋 Hello,  I'm Tetiana Korsun</b>
-<p>📚 Student at <a href="https://owu.com.ua/" target="_blank" >Okten School</a> 🎓</p>
+
+<p>💻 Junior Frontend & Java Developer</p>
 
 🌱 Currently learning Java♨️ programming language 
 
-💻 I have completed a few small projects, but I’m still in the process of learning and improving my skills 🚀    
+📄 I have completed a few small projects, but I’m still in the process of learning and improving my skills 🚀    
 
 👥 Open to collaboration and new opportunities
 
