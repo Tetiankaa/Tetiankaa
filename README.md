@@ -1,10 +1,10 @@
 <b>👋 Hello,  I'm Tetiana Korsun</b>
 
-<p>💻 Junior Frontend & Java Developer</p>
+<p>💻 Junior Frontend Developer</p>
 
 🌱 Currently learning Java♨️ programming language 
 
-📄 I have completed a few small projects, but I’m still in the process of learning and improving my skills 🚀    
+📄 I've completed several projects, that helped me develop my skills and I’m still in the process of learning 🚀    
 
 👥 Open to collaboration and new opportunities
 
