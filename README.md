@@ -2,8 +2,6 @@
 
 <p>💻 Junior Frontend Developer</p>
 
-🌱 Currently learning Java♨️ programming language 
-
 📄 I've completed several projects, that helped me develop my skills and I’m still in the process of learning 🚀    
 
 👥 Open to collaboration and new opportunities
