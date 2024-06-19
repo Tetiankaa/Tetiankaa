@@ -1,67 +1,78 @@
-<b>👋 Hello,  I'm Tetiana Korsun</b>
+### 👋 Hello, my name is Tetiana Korsun
+### 💻 I'm Junior Web Developer
 
-<p>💻 Junior Frontend Developer</p>
+👥 I have experience with both front-end and back-end technologies. 🌐 </br>
+ I'm always eager to expand my knowledge and take on new challenges across the development spectrum.
 
-👥 My primary focus is on front-end development, but I'm always looking for opportunities to expand my knowledge and experience.
-If you have a back-end or full-stack role that aligns with my gained skills, I'd be excited to discuss it.
+📫 **Feel free to reach out to connect:**
+- **Email:** tanyakorsun0208@gmail.com
+- **LinkedIn:** [Tetiana Korsun](https://www.linkedin.com/in/korsun-tetiana)
 
-📫  Feel free to reach out to connect:
-- Email: tanyakorsun0208@gmail.com
-- LinkedIn: www.linkedin.com/in/korsun-tetiana
+## 🛠️ Languages and Tools
 
-<h3 align="left"> 🛠️ Languages and Tools:</h3>
-Frontend:
+### Frontend:
 <p align="left">
   <a href="https://github.com/Tetiankaa/Project_HTML_Okten" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   </a>
   <a href="https://github.com/Tetiankaa/Project_HTML_Okten" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   </a>
   <a href="https://github.com/Tetiankaa/Project_JavaScript_Okten" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a>
   <a href="https://github.com/Tetiankaa/project-moviedb" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a>
   <a href="https://github.com/Tetiankaa/project-moviedb-rtk" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
   </a>
   <a href="https://github.com/Tetiankaa/angular/tree/HW6" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
   </a>
 </p>
-Backend:
+
+### Backend:
 <p align="left">
   <a href="https://github.com/Tetiankaa/nodejs_lessons_hw/tree/lessons" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/> 
   </a>
   <a href="https://github.com/Tetiankaa/nodejs_lessons_hw/tree/lessons" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45"/> 
   </a>
-  <a href="https://github.com/Tetiankaa/project_AutoRia_Okten" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/> </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="nestjs" width="40" height="40"/> </a>
 </p>
-Databases:
+
+### Databases:
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
   </a>
 </p>
-Tools:
+
+### Tools:
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left"> 📂 Featured Projects</h3>
-Check out my pinned projects below to see some of the work I’ve done!
-<p></p>
+## 📂 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tetiankaa&show_icons=true&locale=en&layout=compact" alt="tetiankaa" /></p>
+Check out my pinned projects below to see some of the work I’ve done!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tetiankaa&show_icons=true&locale=en&layout=compact" alt="Tetiana's Top Languages" />
+</p>
