@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Tetiana Korsun
-### 💻 Junior Node.js Backend Developer
+### 💻 Junior Web Developer
 
 👥 With experience in both front-end and back-end technologies, I excel in developing RESTful APIs, implementing secure authentication, and optimizing database interactions and building responsive user interfaces 🌐 </br>
  I'm always eager to expand my knowledge and take on new challenges across the development spectrum.
